@@ -1,6 +1,6 @@
-# TEST [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)]
+# TEST PROJECT [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)]
   ## Description
-  TEST
+  this is a test
   ## Table of Contents
 - [Installation](#installation)
 - [Usage](#usage)
@@ -8,17 +8,17 @@
 - [License](#license)
 - [Questions](#questions)
   ## Installation
-  TEST
+  installation test
   ## Usage
-  TEST
+  this is the usage
   ## Testing
-  TEST
+  these are the instructin
   ## License
   [Mozilla License](https://opensource.org/licenses/MPL-2.0)
   ## Questions
-  Find me on [GitHub](https://github.com/TEST)
+  Find me on [GitHub](https://github.com/jlipovetz)
 
   OR 
-  [Email Us](TEST)
+  [Email Us](jlipovetz@gmail.com)
 
 
